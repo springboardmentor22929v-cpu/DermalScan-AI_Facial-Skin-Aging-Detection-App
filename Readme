@@ -1,21 +1,19 @@
-DermalScan:AI_Facial Skin Aging
-Detection App
+# DermalScan: AI_Facial Skin Aging Detection App
 
-Project Statement:
-The objective is to develop a deep learning-based system that can detect and classify facial aging
-signs—such as wrinkles, dark spots, puffy eyes, and clear skin—using a pretrained EfficientNetB0
-model. The pipeline includes face detection using Haar Cascades, custom preprocessing and data
-augmentation, and classification with percentage predictions. A web-based frontend will enable
-users to upload images and visualize aging signs with annotated bounding boxes and labels.
+## Project Statement
+The objective is to develop a deep learning-based system that can detect and classify facial aging signs—such as wrinkles, dark spots, puffy eyes, and clear skin—using a pretrained EfficientNetB0 model. The pipeline includes face detection using Haar Cascades, custom preprocessing and data augmentation, and classification with percentage predictions. A web-based frontend will enable users to upload images and visualize aging signs with annotated bounding boxes and labels.
 
-Outcomes:
-● Detect and localize facial features indicating aging.
-● Classify detected features into categories like wrinkles, dark spots, puffy eyes, and clear skin
-using a trained CNN model.
-● Train and evaluate an EfficientNetB0 model for robust classification.
-● Build a web-based frontend for uploading facial images and viewing annotated outputs.
-● Integrate a backend pipeline that processes input images and returns annotated
-results. ● Export annotated outputs and logs for documentation or analysis.
+## Outcomes
+- Detect and localize facial features indicating aging.  
+- Classify detected features into categories like wrinkles, dark spots, puffy eyes, and clear skin using a trained CNN model.  
+- Train and evaluate an EfficientNetB0 model for robust classification.  
+- Build a web-based frontend for uploading facial images and viewing annotated outputs.  
+- Integrate a backend pipeline that processes input images and returns annotated results.  
+- Export annotated outputs and logs for documentation or analysis.
 
-DATASET LINK:https://drive.google.com/drive/folders/1hdF9TEXRXe9JxoB6e9WTva8t_IwDGK8H?usp=sharing
+## 📂 Dataset Access
+You can download or explore the dataset from the link below:
+
+➡️ [Click here to open the dataset on Google Drive](https://drive.google.com/drive/folders/1hdF9TEXRXe9JxoB6e9WTva8t_IwDGK8H?usp=sharing)
+
 
