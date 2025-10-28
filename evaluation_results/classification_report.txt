@@ -1,0 +1,10 @@
+              precision    recall  f1-score   support
+
+  clear skin       0.00      0.00      0.00        45
+  dark spots       0.25      1.00      0.40        45
+  puffy eyes       0.00      0.00      0.00        45
+    wrinkles       0.00      0.00      0.00        45
+
+    accuracy                           0.25       180
+   macro avg       0.06      0.25      0.10       180
+weighted avg       0.06      0.25      0.10       180
