@@ -1,0 +1,4 @@
+.vscode/
+dermascanenv/
+__pycache__/
+*.pyc
