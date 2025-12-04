@@ -1,0 +1,5 @@
+dermalscan_env_tf/
+logs/
+models/
+__pycache__/
+*.exe
