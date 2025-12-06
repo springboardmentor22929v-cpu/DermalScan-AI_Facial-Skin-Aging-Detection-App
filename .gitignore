@@ -1,0 +1,9 @@
+dermalscan_env_tf/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.DS_Store
+*.h5
+.env
