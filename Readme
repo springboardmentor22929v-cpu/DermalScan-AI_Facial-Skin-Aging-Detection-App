@@ -16,3 +16,7 @@ using a trained CNN model.
 ● Build a web-based frontend for uploading facial images and viewing annotated outputs.
 ● Integrate a backend pipeline that processes input images and returns annotated
 results. ● Export annotated outputs and logs for documentation or analysis.
+
+
+Link for Trained model :-
+https://drive.google.com/file/d/1LMVnc8wTptuzvIB98VpbctilfLKXtvCS/view?usp=drive_link
