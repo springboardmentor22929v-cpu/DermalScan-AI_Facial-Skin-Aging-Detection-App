@@ -1,0 +1,24 @@
+# Streamlit for web app interface
+streamlit==1.51.0
+
+# Image processing
+Pillow==12.0.0
+opencv-python-headless==4.12.0.88   # headless OpenCV for server use (no GUI dependencies)
+
+# Numerical and data handling
+numpy==2.2.6
+pandas==2.3.2
+pyarrow==21.0.0
+
+# Visualization
+matplotlib==3.10.7
+
+# Machine learning / AI
+tensorflow==2.20.0
+h5py==3.15.1
+
+# HTTP requests
+requests==2.32.5
+
+# Python version
+python==3.11.7
